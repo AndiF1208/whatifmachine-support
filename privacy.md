@@ -1,12 +1,12 @@
-# Privacy Policy — A new Flutter project
+# Privacy Policy — What If Machine
 
-_Last updated: 2026-05-19_
+_Last updated: 2026-05-22_
 
-A new Flutter project is built around a simple promise: **what happens on your phone stays on your phone.**
+What If Machine is built around a simple promise: **what happens on your phone stays on your phone.**
 
 ## Data we collect
 
-**None.** A new Flutter project does not collect, transmit, store, or share any personal data.
+**None.** What If Machine does not collect, transmit, store, or share any personal data.
 
 - We have no server.
 - We use no analytics SDKs.
@@ -15,17 +15,17 @@ A new Flutter project is built around a simple promise: **what happens on your p
 
 ## What happens locally on your device
 
-A new Flutter project stores app state (your settings, history, scores, in-app purchase records) in your device's local storage. This data never leaves your phone. If you uninstall the app, this data is deleted with it.
+What If Machine stores app state (your settings, history, scores, in-app purchase records) in your device's local storage. This data never leaves your phone. If you uninstall the app, this data is deleted with it.
 
-If you tap a Share button in the app, it opens your device's system share sheet so you can send content somewhere yourself. A new Flutter project does not initiate any sharing without your explicit tap.
+If you tap a Share button in the app, it opens your device's system share sheet so you can send content somewhere yourself. What If Machine does not initiate any sharing without your explicit tap.
 
 ## In-app purchases
 
-In-app purchases are processed by Apple (App Store) or Google (Google Play). A new Flutter project receives only the purchase result; it does not see your payment details. Purchase IDs are stored locally in order to validate restores and prevent double-grants.
+In-app purchases are processed by Apple (App Store) or Google (Google Play). What If Machine receives only the purchase result; it does not see your payment details. Purchase IDs are stored locally in order to validate restores and prevent double-grants.
 
 ## Children
 
-A new Flutter project is not directed at children under 13. We do not knowingly collect data from anyone.
+What If Machine is not directed at children under 13. We do not knowingly collect data from anyone.
 
 ## Changes to this policy
 
